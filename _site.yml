@@ -1,4 +1,4 @@
-name: "green"
+name: "."
 title: "Green New Deal"
 description: |
   Green New Deal
@@ -9,6 +9,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Victor"              # add
-      href: victor.html           # add
+    - text: "Blog"
+      href: blog.html
 output: distill::distill_article

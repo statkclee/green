@@ -1,23 +1,15 @@
 ---
-title: "이광춘"
-image: "victor-lee.jpg"
-links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
-  - label: Email
-    url: "mailto:email@email.com"
-site: distill::distill_website    
-output:
-  postcards::jolla
+title: "Green New Deal"
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
 ---
- 
-Raised in New Jersey by two lawyers, I am now an aspiring data artist and 
-competitive rock climber. I moved to Seattle to fly floatplanes, but I got 
-caught up in the startup world. Send me a WhatsApp message if you have good 
-turnip prices.
 
-create_article(file = "tobi", template = "jolla", package = "postcards")
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
