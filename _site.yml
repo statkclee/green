@@ -1,0 +1,14 @@
+name: "green"
+title: "Green New Deal"
+description: |
+  Green New Deal
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Victor"              # add
+      href: victor.html           # add
+output: distill::distill_article
