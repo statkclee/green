@@ -2,7 +2,9 @@ name: "."
 title: "Green New Deal"
 description: |
   Green New Deal
+base_url: https://korea-esg.netlify.app/
 output_dir: "_site"
+google_analytics: "UA-59802572-23"
 navbar:
   right:
     - text: "Home"
@@ -11,4 +13,16 @@ navbar:
       href: about.html
     - text: "Blog"
       href: blog.html
+    - icon: fab fa-github
+      href: https://github.com/statkclee
+    - icon: fab fa-linkedin-in
+      href: https://www.linkedin.com/in/kwangchunlee
+    - icon: fab fa-facebook
+      href: https://www.facebook.com/groups/tidyverse
+collections:
+  posts:
+    categories: true
+    categories_metadata: true
+    authors_metadata: false
+    share: [facebook, twitter, linkedin]
 output: distill::distill_article
