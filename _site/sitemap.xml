@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://korea-esg.netlify.app/about.html</loc>
-    <lastmod>2021-01-12T21:36:20+09:00</lastmod>
+    <lastmod>2021-01-16T16:19:15+09:00</lastmod>
   </url>
   <url>
     <loc>https://korea-esg.netlify.app/blog.html</loc>
-    <lastmod>2021-01-12T23:14:35+09:00</lastmod>
+    <lastmod>2021-01-16T16:19:15+09:00</lastmod>
   </url>
   <url>
     <loc>https://korea-esg.netlify.app/</loc>
-    <lastmod>2021-01-12T21:36:19+09:00</lastmod>
+    <lastmod>2021-01-16T16:38:32+09:00</lastmod>
   </url>
   <url>
     <loc>https://korea-esg.netlify.app/posts/2021-01-16-data-ownership-data-economy/</loc>
-    <lastmod>2021-01-16T15:15:28+09:00</lastmod>
+    <lastmod>2021-01-16T16:19:14+09:00</lastmod>
   </url>
   <url>
     <loc>https://korea-esg.netlify.app/posts/2021-01-12-r-for-data-science/</loc>
-    <lastmod>2021-01-12T23:17:35+09:00</lastmod>
+    <lastmod>2021-01-16T16:19:14+09:00</lastmod>
   </url>
 </urlset>

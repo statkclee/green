@@ -1,15 +1,46 @@
 ---
-title: "Green New Deal"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "데이터 과학"
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
+<div class = "container">
+  <div class = "pull-left">
+  
+```{r, echo = FALSE, eval = TRUE, out.width="80%", fig.align='center'}
+knitr::include_graphics(here::here("fig", "victor_lee.jpg"))
 ```
 
+<center>**이광춘 / Kwangchun Lee**  
+*데이터 과학자 / Data Scientist* </center>
+  </div>
+  
+  <div class = "pull-right">
+
+  </div>
+</div>
+<br>
+<br>
+
+## Background
+<div class = "container">
+  <div class = "pull-left">
+### Placeholder
+**Placeholder**  
+Placeholder
+  
+**Placeholder**  
+Placeholder
+  </div>
+  <div class = "pull-right">
+### Placeholder
+**Placeholder**  
+Placeholder
+  
+**Placeholder**  
+Placeholder
+
+**Placeholder**  
+**Placeholder**       
+Placeholder
+  </div>
+</div>

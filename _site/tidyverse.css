@@ -11,7 +11,9 @@
 /* Optional: embed custom fonts here with `@import`          */
 /* This must remain at the top of this file.                 */
 
-
+@import url('https://fonts.googleapis.com/css2?family=Sunflower:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300&family=Sunflower:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gaegu:wght@700&family=Noto+Sans+KR:wght@100;300&family=Sunflower:wght@500&display=swap');
 
 html {
   /*-- Main font sizes --*/
@@ -27,10 +29,10 @@ html {
   --aside-color:     rgba(0, 0, 0, 0.6);
   --fig-cap-color:   rgba(0, 0, 0, 0.6);
   /*-- Specify custom fonts ~~~ must be imported above   --*/
-  --heading-font:    sans-serif;
-  --mono-font:       monospace;
-  --body-font:       sans-serif;
-  --navbar-font:     sans-serif;  /* websites + blogs only */
+  --heading-font:    'Sunflower', sans-serif;
+  --mono-font:       "DM Mono", monospace;
+  --body-font:       'Noto Sans KR', sans-serif;
+  --navbar-font:     'Gaegu', cursive;
 }
 
 /*-- ARTICLE METADATA --*/
@@ -60,19 +62,28 @@ d-appendix {
 
 .distill-site-header {
   --title-size:       18px;
-  --text-color:       rgba(255, 255, 255, 0.8);
+  --text-color:       white;
   --text-size:        15px;
-  --hover-color:      white;
-  --bkgd-color:       #0F2E3D;
+  --hover-color:      #89ac81;
+  --bkgd-color:       #000;
 }
 
 .distill-site-footer {
-  --text-color:       rgba(255, 255, 255, 0.8);
+  --text-color:       white;
   --text-size:        15px;
-  --hover-color:      white;
-  --bkgd-color:       #0F2E3D;
+  --hover-color:      #89ac81;
+  --bkgd-color:       #000;
 }
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
+.pull-left {
+  float: left;
+  width: 47%;
+}
+
+.pull-right {
+  float: right;
+  width: 47%;
+}
 

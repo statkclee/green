@@ -6,22 +6,21 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-16T16:15:54+09:00"
+      "last_modified": "2021-01-16T16:38:36+09:00"
     },
     {
       "path": "blog.html",
       "title": "Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-16T16:15:55+09:00"
+      "last_modified": "2021-01-16T16:38:37+09:00"
     },
     {
       "path": "index.html",
-      "title": "Green New Deal",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "데이터 과학",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-16T16:15:56+09:00"
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n이광춘 / Kwangchun Lee데이터 과학자 / Data Scientist\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nBackground\r\n\r\nPlaceholder\r\nPlaceholder\r\nPlaceholder\r\nPlaceholder\r\nPlaceholder\r\nPlaceholder\r\nPlaceholder\r\nPlaceholder\r\nPlaceholder\r\nPlaceholder\r\nPlaceholderPlaceholder\r\nPlaceholder\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-16T16:38:38+09:00"
     }
   ],
   "collections": ["posts/posts.json"]
